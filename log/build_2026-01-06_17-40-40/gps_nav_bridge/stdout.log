@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating gps_nav_bridge.egg-info
+writing gps_nav_bridge.egg-info/PKG-INFO
+writing dependency_links to gps_nav_bridge.egg-info/dependency_links.txt
+writing entry points to gps_nav_bridge.egg-info/entry_points.txt
+writing requirements to gps_nav_bridge.egg-info/requires.txt
+writing top-level names to gps_nav_bridge.egg-info/top_level.txt
+writing manifest file 'gps_nav_bridge.egg-info/SOURCES.txt'
+reading manifest file 'gps_nav_bridge.egg-info/SOURCES.txt'
+writing manifest file 'gps_nav_bridge.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/youssef/ros2_ws/install/gps_nav_bridge/lib/python3.10/site-packages/gps-nav-bridge.egg-link (link to .)
+Installing gps_nav_bridge script to /home/youssef/ros2_ws/install/gps_nav_bridge/lib/gps_nav_bridge
+
+Installed /home/youssef/ros2_ws/build/gps_nav_bridge
+running symlink_data
+creating /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index
+creating /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index/resource_index
+creating /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/youssef/ros2_ws/build/gps_nav_bridge/resource/gps_nav_bridge -> /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/youssef/ros2_ws/build/gps_nav_bridge/package.xml -> /home/youssef/ros2_ws/install/gps_nav_bridge/share/gps_nav_bridge

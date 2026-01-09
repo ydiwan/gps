@@ -1,0 +1,4 @@
+[console_scripts]
+sim_gps_from_odom = sim_gps_from_odom.sim_gps_from_odom:main
+sim_gps_from_tf = sim_gps_from_odom.sim_gps_from_tf:main
+

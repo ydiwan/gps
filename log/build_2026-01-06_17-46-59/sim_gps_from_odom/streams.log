@@ -1,0 +1,21 @@
+[0.521s] Invoking command in '/home/youssef/ros2_ws/src/sim_gps_from_odom': PYTHONPATH=/home/youssef/ros2_ws/build/sim_gps_from_odom/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/sim_gps_from_odom/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sim_gps_from_odom build --build-base /home/youssef/ros2_ws/build/sim_gps_from_odom/build install --record /home/youssef/ros2_ws/build/sim_gps_from_odom/install.log --single-version-externally-managed install_data
+[0.656s] running egg_info
+[0.657s] writing ../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/PKG-INFO
+[0.657s] writing dependency_links to ../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/dependency_links.txt
+[0.657s] writing entry points to ../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/entry_points.txt
+[0.657s] writing requirements to ../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/requires.txt
+[0.657s] writing top-level names to ../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/top_level.txt
+[0.658s] reading manifest file '../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/SOURCES.txt'
+[0.658s] writing manifest file '../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info/SOURCES.txt'
+[0.658s] running build
+[0.659s] running build_py
+[0.659s] running install
+[0.659s] running install_lib
+[0.659s] running install_data
+[0.659s] running install_egg_info
+[0.661s] removing '/home/youssef/ros2_ws/install/sim_gps_from_odom/lib/python3.10/site-packages/sim_gps_from_odom-0.0.0-py3.10.egg-info' (and everything under it)
+[0.661s] Copying ../../build/sim_gps_from_odom/sim_gps_from_odom.egg-info to /home/youssef/ros2_ws/install/sim_gps_from_odom/lib/python3.10/site-packages/sim_gps_from_odom-0.0.0-py3.10.egg-info
+[0.661s] running install_scripts
+[0.673s] Installing sim_gps_from_odom script to /home/youssef/ros2_ws/install/sim_gps_from_odom/lib/sim_gps_from_odom
+[0.673s] writing list of installed files to '/home/youssef/ros2_ws/build/sim_gps_from_odom/install.log'
+[0.696s] Invoked command in '/home/youssef/ros2_ws/src/sim_gps_from_odom' returned '0': PYTHONPATH=/home/youssef/ros2_ws/build/sim_gps_from_odom/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/sim_gps_from_odom/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sim_gps_from_odom build --build-base /home/youssef/ros2_ws/build/sim_gps_from_odom/build install --record /home/youssef/ros2_ws/build/sim_gps_from_odom/install.log --single-version-externally-managed install_data

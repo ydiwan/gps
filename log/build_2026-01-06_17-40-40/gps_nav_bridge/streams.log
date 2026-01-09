@@ -1,0 +1,24 @@
+[0.350s] Invoking command in '/home/youssef/ros2_ws/build/gps_nav_bridge': PYTHONPATH=/home/youssef/ros2_ws/build/gps_nav_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/gps_nav_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/ros2_ws/build/gps_nav_bridge/build --no-deps symlink_data
+[0.497s] running develop
+[0.583s] running egg_info
+[0.583s] creating gps_nav_bridge.egg-info
+[0.583s] writing gps_nav_bridge.egg-info/PKG-INFO
+[0.583s] writing dependency_links to gps_nav_bridge.egg-info/dependency_links.txt
+[0.584s] writing entry points to gps_nav_bridge.egg-info/entry_points.txt
+[0.584s] writing requirements to gps_nav_bridge.egg-info/requires.txt
+[0.584s] writing top-level names to gps_nav_bridge.egg-info/top_level.txt
+[0.584s] writing manifest file 'gps_nav_bridge.egg-info/SOURCES.txt'
+[0.585s] reading manifest file 'gps_nav_bridge.egg-info/SOURCES.txt'
+[0.585s] writing manifest file 'gps_nav_bridge.egg-info/SOURCES.txt'
+[0.586s] running build_ext
+[0.586s] Creating /home/youssef/ros2_ws/install/gps_nav_bridge/lib/python3.10/site-packages/gps-nav-bridge.egg-link (link to .)
+[0.586s] Installing gps_nav_bridge script to /home/youssef/ros2_ws/install/gps_nav_bridge/lib/gps_nav_bridge
+[0.586s] 
+[0.586s] Installed /home/youssef/ros2_ws/build/gps_nav_bridge
+[0.586s] running symlink_data
+[0.586s] creating /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index
+[0.586s] creating /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index/resource_index
+[0.586s] creating /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index/resource_index/packages
+[0.586s] symbolically linking /home/youssef/ros2_ws/build/gps_nav_bridge/resource/gps_nav_bridge -> /home/youssef/ros2_ws/install/gps_nav_bridge/share/ament_index/resource_index/packages
+[0.586s] symbolically linking /home/youssef/ros2_ws/build/gps_nav_bridge/package.xml -> /home/youssef/ros2_ws/install/gps_nav_bridge/share/gps_nav_bridge
+[0.603s] Invoked command in '/home/youssef/ros2_ws/build/gps_nav_bridge' returned '0': PYTHONPATH=/home/youssef/ros2_ws/build/gps_nav_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/gps_nav_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/ros2_ws/build/gps_nav_bridge/build --no-deps symlink_data
