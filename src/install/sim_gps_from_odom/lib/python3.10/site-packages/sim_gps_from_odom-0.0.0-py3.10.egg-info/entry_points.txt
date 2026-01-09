@@ -1,3 +1,0 @@
-[console_scripts]
-sim_gps_from_odom = sim_gps_from_odom.sim_gps_from_odom:main
-

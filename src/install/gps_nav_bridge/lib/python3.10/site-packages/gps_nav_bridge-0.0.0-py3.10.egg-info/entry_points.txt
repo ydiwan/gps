@@ -1,3 +1,0 @@
-[console_scripts]
-gps_nav_bridge = gps_nav_bridge.gps_nav_bridge:main
-
