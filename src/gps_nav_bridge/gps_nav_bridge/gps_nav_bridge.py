@@ -49,7 +49,7 @@ class GpsNavBridge(Node):
 
         # ---------------- Params ----------------
         self.use_serial = bool(self.declare_parameter('use_serial', True).value)
-
+        self.enable_serial = bool(self.declare_parameter('enable_serial', True).value)
         self.port = self.declare_parameter('port', '/dev/ttyACM0').value
         self.baud = int(self.declare_parameter('baud', 115200).value)
 
@@ -101,6 +101,12 @@ class GpsNavBridge(Node):
         self._serial: Optional[serial.Serial] = None
         self._stop = False
         self._thread = threading.Thread(target=self.serial_worker, daemon=True)
+
+        if self.enable_serial:
+            self.open_serial()
+            self._thread.start()
+        else:
+            self.get_logger().warn("Serial disabled (enable_serial:=false). GPS fixes will not be published.")
 
         if self.use_serial:
             self.open_serial()
